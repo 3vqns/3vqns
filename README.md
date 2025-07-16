@@ -10,7 +10,6 @@ Based in Dover, DE | Summer 2025 REU at North Dakota State University
 
 I'm passionate about building intelligent systems and solving real-world challenges through technology. I enjoy writing clean, efficient code and using AI tools to bring ideas to life. Whether it's phishing detection, image classification, or conservation tech, I love turning complex problems into practical solutions.  
 My experience includes:
-
 - Creating phishing detection tools using keywords and LLMs like Gemini  
 - Training AI models to detect BigGAN, Stable Diffusion, and Mini-DALLE images  
 - Object detection using YOLO  
